@@ -1,2 +1,7 @@
 # SocialDistancing-Unity3D
- This game is a parody, and actually the first game that I created from nothing.
+
+ This game is the first game I've ever created from nothing.
+ 
+ This is a parody, you should treat it like one.
+ 
+ ![](OldLady.jpg)
